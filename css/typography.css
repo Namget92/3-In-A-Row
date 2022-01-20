@@ -1,0 +1,31 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Francois One", sans-serif;
+}
+h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+header {
+  text-align: center;
+}
+.block_a1,
+.block_a2,
+.block_a3,
+.block_b1,
+.block_b2,
+.block_b3,
+.block_c1,
+.block_c2,
+.block_c3 {
+  text-align: center;
+  font-size: 2.4rem;
+}
+h2,
+h3,
+h4 {
+  font-size: 1.7rem;
+  text-align: center;
+}

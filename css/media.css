@@ -1,0 +1,30 @@
+@media (min-width: 600px) {
+    main {
+      margin-left: 20%;
+      margin-right: 20%;
+    }
+  }
+  @media (min-width: 900px) {
+    main {
+      margin-left: 25%;
+      margin-right: 25%;
+    }
+  }
+  @media (min-width: 1200px) {
+    main {
+      margin-left: 30%;
+      margin-right: 30%;
+    }
+  }
+  @media (min-width: 1500px) {
+    main {
+      margin-left: 32.5%;
+      margin-right: 32.5%;
+    }
+  }
+  @media (min-width: 1800px) {
+    main {
+      margin-left: 35%;
+      margin-right: 35%;
+    }
+  }

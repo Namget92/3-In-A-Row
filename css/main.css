@@ -1,0 +1,46 @@
+body {
+  padding: 2% 10% 0% 10%;
+  background-image: url(/assets/background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+header {
+  background-size: inherit;
+  background-attachment: inherit;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 10%;
+  justify-items: center;
+  height: 40%;
+  margin-top: 5%;
+}
+.block_a1,
+.block_a2,
+.block_a3,
+.block_b1,
+.block_b2,
+.block_b3,
+.block_c1,
+.block_c2,
+.block_c3 {
+  width: 100%;
+  height: 100%;
+  border: rgb(0, 0, 0) solid 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5%;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 0px;
+}
+h2 {
+  margin-top: 20px;
+}
