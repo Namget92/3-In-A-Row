@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "name": "3-in-a-row",
+  "description": "School work number 3. The assignment was to make a game with js, css and html.\r 09/12/21.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namget92/3-In-A-Row.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namget92/3-In-A-Row/issues"
+  },
+  "homepage": "https://github.com/Namget92/3-In-A-Row#readme"
+}
